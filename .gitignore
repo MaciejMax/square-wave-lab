@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+# Old exports may remain locked by an audio player during the rename.
+oda_*.wav
+.preview-browser/
